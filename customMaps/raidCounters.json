@@ -1,0 +1,30 @@
+{
+  "name": "raidCounters",
+  "map": {
+      "641": {
+      "trainers": "2+",
+	  "Boss":"Tornadus",
+      "counters": "Shadow Raikou, Shadow Zapdos, Shadow Magnezone, Zekrom, Shadow Mamoswine & Shadow Tyranitar"
+    },
+      "642": {
+      "trainers": "2+",
+	  "Boss":"Thundurus",
+      "counters": "Shadow Mamoswine, Rampardos, Shadow Tyranitar, Shadow Weavile, Rhyperior & Mega Abomasnow"
+    },
+      "643": {
+      "trainers": "",
+	  "Boss":"Reshiram",
+      "counters": "   "
+    },
+      "644": {
+      "trainers": "",
+	  "Boss":"Zekrom",
+      "counters": "   "
+    },
+    "645": {
+      "trainers": "2+",
+	  "Boss":"LANDORUS",
+      "counters": "Shadow Mamoswine, Shadow Mewtwo, Mega Abomasnow, Shadow Weavile, Galarian Darmanitan & Mamoswine"
+    }
+  }
+}
